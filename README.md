@@ -33,12 +33,6 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 * **Databricks AI Security Fundamentals** — [👁️ View Badge](https://credentials.databricks.com/f3d798c1-b6a2-4377-9ca0-30fad6223694)
 
----
-
-## 🚂 Purdue University AI
-
-* **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg)  **(note: right click link and select open incognito window)**
-
 
 ---
 
@@ -57,3 +51,10 @@ A comprehensive showcase of my verified credentials, specialized course completi
 * **Leveraging AI for Governance, Risk, and Compliance** — [👁️ View Certificate](https://drive.google.com/file/d/1ZNzPU_-qD_lfWOgqnI541W6JsJedM1JM/preview)
 * **The AI-Driven Cybersecurity Analyst** — [👁️ View Certificate](https://drive.google.com/file/d/1waXE5nMC-3tsc47LhUsqmeVpDkMkoc8C/preview)
 * **Using Generative AI Ethically at Work** — [👁️ View Certificate](https://drive.google.com/file/d/1FiBd_lMkJwTm-plc2AQ7XwKnT7QTrmU1/preview)
+
+
+---
+
+## 🚂 Purdue University AI
+
+* **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg)  **(note: right click link and select open incognito window)**
