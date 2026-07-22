@@ -8,7 +8,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 * **Cisco AI Technical Practitioner (AITECH)** — [👁️ View Certificate](https://www.credly.com/badges/4a56e0c1-66ea-44d5-a943-cf8e93692f3f)
 * **Cisco AI Business Practitioner (AIBIZ)** — [👁️ View Certificate](https://www.credly.com/badges/08c22e87-dc6d-46b1-afee-3d005ad8b2bc)
-* **Understanding AI and LLMs as a Network Engineer (AI4NE)** — [👁️ View Certificate](https://images.credly.com/size/340x340/images/870c5e92-55dd-48dd-aaed-cfe6293c409b)
+* **Understanding AI and LLMs as a Network Engineer (AI4NE)** — [👁️ View Certificate](https://www.credly.com/badges/57af9a51-7877-4a17-a30b-a24e455b9136)
 
 ---
 
