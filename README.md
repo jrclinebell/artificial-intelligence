@@ -19,6 +19,16 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
+## 🤖 deeplearning.ai
+
+* **Generative AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/ebf94502-8ad6-4df9-81ac-26e269ba80ec)
+* **AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/9059394d-730e-440c-b7a4-6cba6d600830)
+* **Open Source Models with Hugging Face** — [👁️ View Accomplishment](https://learn.deeplearning.ai/accomplishments/ef60dd4c-7883-486a-9ccb-597b83d9dd17?_gl=1*8vd4v4*_gcl_au*ODIxODg3NDYyLjE3ODQ3NDk0OTE.*_ga*MTk0OTAwNDM5MC4xNzg0NzQ5MDI2*_ga_PZF1GBS1R1*czE3ODQ3NDk0OTAkbzEkZzAkdDE3ODQ3NDk0OTUkajU1JGwwJGgw&usp=sharing)
+* **Quantization Fundamentals with Hugging Face** — [👁️ View Accomplishment](https://learn.deeplearning.ai/accomplishments/26f6c308-8b61-4202-aa44-7dd167dcae41?_gl=1*8vd4v4*_gcl_au*ODIxODg3NDYyLjE3ODQ3NDk0OTE.*_ga*MTk0OTAwNDM5MC4xNzg0NzQ5MDI2*_ga_PZF1GBS1R1*czE3ODQ3NDk0OTAkbzEkZzAkdDE3ODQ3NDk0OTUkajU1JGwwJGgw&usp=sharing)
+  
+
+---
+
 ## 🧱 Databricks AI
 
 * **Databricks AI Security Fundamentals** — [👁️ View Badge](https://credentials.databricks.com/f3d798c1-b6a2-4377-9ca0-30fad6223694)
@@ -28,18 +38,6 @@ A comprehensive showcase of my verified credentials, specialized course completi
 ## 🚂 Purdue University AI
 
 * **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg) * **(note: right click link and select open incognito window)**
-
----
-
-## 🤖 deeplearning.ai
-
-* **Generative AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/ebf94502-8ad6-4df9-81ac-26e269ba80ec)
-* **AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/9059394d-730e-440c-b7a4-6cba6d600830)
-* **Open Source Models with Hugging Face** — [👁️ View Accomplishment](https://learn.deeplearning.ai/accomplishments/ef60dd4c-7883-486a-9ccb-597b83d9dd17?_gl=1*8vd4v4*_gcl_au*ODIxODg3NDYyLjE3ODQ3NDk0OTE.*_ga*MTk0OTAwNDM5MC4xNzg0NzQ5MDI2*_ga_PZF1GBS1R1*czE3ODQ3NDk0OTAkbzEkZzAkdDE3ODQ3NDk0OTUkajU1JGwwJGgw&usp=sharing)
-* **Quantization Fundamentals with Hugging Face** — [👁️ View Accomplishment](https://learn.deeplearning.ai/accomplishments/26f6c308-8b61-4202-aa44-7dd167dcae41?_gl=1*8vd4v4*_gcl_au*ODIxODg3NDYyLjE3ODQ3NDk0OTE.*_ga*MTk0OTAwNDM5MC4xNzg0NzQ5MDI2*_ga_PZF1GBS1R1*czE3ODQ3NDk0OTAkbzEkZzAkdDE3ODQ3NDk0OTUkajU1JGwwJGgw&usp=sharing)
-
-
-
 
 
 ---
