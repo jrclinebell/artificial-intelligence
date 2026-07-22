@@ -1,4 +1,4 @@
-# 🎓 Artificial Intelligence Badges, Course Completion Certificates, and Accomplishments Ledger
+# 🎓 Artificial Intelligence: Badges, Course Completion Certificates, and Accomplishments Ledger
 
 A comprehensive showcase of my verified credentials, specialized course completions, and digital badges in Artificial Intelligence.
 
