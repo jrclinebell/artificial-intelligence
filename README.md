@@ -14,8 +14,8 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ## 🎩 Red Hat
 
-* **Red Hat Training Title** — [👁️ View Badge](https://drive.google.com/file/d/YOUR_FILE_ID/preview)
-* **Red Hat Training Title** — [👁️ View Certificate](https://drive.google.com/file/d/YOUR_FILE_ID/preview)
+* **Red Hat AI Technical Foundations** — [👁️ View Badge](https://www.credly.com/badges/2cbc060b-7242-49a7-a5d8-87ddd608663a)
+* **Red Hat AI Executive Foundations** — [👁️ View Certificate](https://www.credly.com/badges/b072d64b-3162-4b2b-807f-7d606b8a9d89)
 
 ---
 
