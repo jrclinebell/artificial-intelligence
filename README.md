@@ -33,8 +33,8 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ## 🤖 DeepLearning.AI
 
-* **ChatGPT Prompt Engineering for Developers** — [👁️ View Certificate](https://drive.google.com/file/d/YOUR_FILE_ID/preview)
-* **AI for Everyone** — [👁️ View Certificate](https://drive.google.com/file/d/YOUR_FILE_ID/preview)
+* **Generative AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/ebf94502-8ad6-4df9-81ac-26e269ba80ec)
+* **AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/9059394d-730e-440c-b7a4-6cba6d600830)
 
 
 
