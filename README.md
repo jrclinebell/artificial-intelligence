@@ -37,7 +37,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ## 🚂 Purdue University AI
 
-* **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg) * **(note: right click link and select open incognito window)**
+* **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg)  **(note: right click link and select open incognito window)**
 
 
 ---
