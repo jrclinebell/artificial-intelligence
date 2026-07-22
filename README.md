@@ -4,7 +4,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 🧠 Cisco University 
+## 🧠 Cisco University AI
 
 * **Cisco AI Technical Practitioner (AITECH)** — [👁️ View Badge](https://www.credly.com/badges/4a56e0c1-66ea-44d5-a943-cf8e93692f3f)
 * **Cisco AI Business Practitioner (AIBIZ)** — [👁️ View Badge](https://www.credly.com/badges/08c22e87-dc6d-46b1-afee-3d005ad8b2bc)
@@ -12,20 +12,20 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 🎩 Red Hat
+## 🎩 Red Hat AI
 
 * **Red Hat AI Technical Foundations** — [👁️ View Badge](https://www.credly.com/badges/2cbc060b-7242-49a7-a5d8-87ddd608663a)
 * **Red Hat AI Executive Foundations** — [👁️ View Badge](https://www.credly.com/badges/b072d64b-3162-4b2b-807f-7d606b8a9d89)
 
 ---
 
-## 🧱 Databricks
+## 🧱 Databricks AI
 
 * **Databricks AI Security Fundamentals** — [👁️ View Badge](https://credentials.databricks.com/f3d798c1-b6a2-4377-9ca0-30fad6223694)
 
 ---
 
-## 🚂 Purdue University
+## 🚂 Purdue University AI
 
 * **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg) * **(note: right click link and select open incognito window)**
 
@@ -44,7 +44,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 💼 LinkedIn Learning
+## 💼 LinkedIn Learning AI
 
 * **Advanced AI Governance: Operationalizing AI Controls and Continuous Monitoring** — [👁️ View Certificate](https://drive.google.com/file/d/1ZSTRdBUXbW6k8nTRvHqFafPEpqswgbiY/preview)
 * **Agentic AI Fundamentals: Architectures, Frameworks, and Applications** — [👁️ View Certificate](https://drive.google.com/file/d/1jPqiRuSyPp8topBQLpAg0Y3S-pFPm7T-/preview)
