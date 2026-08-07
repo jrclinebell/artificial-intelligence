@@ -42,7 +42,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 * **Secure Azure Key Vault with defense in depth for the cloud and AI workloads** — [👁️ View Badge](https://drive.google.com/file/d/1LdcvVJTRFNePeU395-Pftv0cVaGsJQ6u/preview)
 
 
---
+---
 
 
 ## 💼 LinkedIn Learning AI
