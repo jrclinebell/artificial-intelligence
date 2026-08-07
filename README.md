@@ -37,6 +37,14 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
+## 🧠 Microsoft Learn
+
+* **Secure Azure Key Vault with defense in depth for the cloud and AI workloads** — [👁️ View Badge](https://drive.google.com/file/d/1LdcvVJTRFNePeU395-Pftv0cVaGsJQ6u/preview)
+
+
+--
+
+
 ## 💼 LinkedIn Learning AI
 
 * **Advanced AI Governance: Operationalizing AI Controls and Continuous Monitoring** — [👁️ View Certificate](https://drive.google.com/file/d/1ZSTRdBUXbW6k8nTRvHqFafPEpqswgbiY/preview)
