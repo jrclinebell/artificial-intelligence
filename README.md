@@ -4,7 +4,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 🧠 Cisco University AI
+## 🧠 Cisco University AI Badges and Certificates
 
 * **Cisco AI Technical Practitioner (AITECH)** — [👁️ View Badge](https://www.credly.com/badges/4a56e0c1-66ea-44d5-a943-cf8e93692f3f)
 * **Cisco AI Business Practitioner (AIBIZ)** — [👁️ View Badge](https://www.credly.com/badges/08c22e87-dc6d-46b1-afee-3d005ad8b2bc)
@@ -13,14 +13,14 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 🎩 Red Hat AI
+## 🎩 Red Hat AI Badges
 
 * **Red Hat AI Technical Foundations** — [👁️ View Badge](https://www.credly.com/badges/2cbc060b-7242-49a7-a5d8-87ddd608663a)
 * **Red Hat AI Executive Foundations** — [👁️ View Badge](https://www.credly.com/badges/b072d64b-3162-4b2b-807f-7d606b8a9d89)
 
 ---
 
-## 🤖 deeplearning.ai
+## 🤖 deeplearning.ai Certificates and Accomplishments
 
 * **Generative AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/ebf94502-8ad6-4df9-81ac-26e269ba80ec)
 * **AI for Everyone** — [👁️ View Certificate](https://learn.deeplearning.ai/certificates/9059394d-730e-440c-b7a4-6cba6d600830)
@@ -30,14 +30,14 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 🧱 Databricks AI
+## 🧱 Databricks AI Badge
 
 * **Databricks AI Security Fundamentals** — [👁️ View Badge](https://credentials.databricks.com/f3d798c1-b6a2-4377-9ca0-30fad6223694)
 
 
 ---
 
-## 🧠 Microsoft Learn
+## 🧠 Microsoft Learn Certificate
 
 * **Secure Azure Key Vault with defense in depth for the cloud and AI workloads** — [👁️ View Certificate](https://drive.google.com/file/d/1LdcvVJTRFNePeU395-Pftv0cVaGsJQ6u/preview)
 
@@ -45,7 +45,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 ---
 
 
-## 💼 LinkedIn Learning AI
+## 💼 LinkedIn Learning AI Certificates
 
 * **Advanced AI Governance: Operationalizing AI Controls and Continuous Monitoring** — [👁️ View Certificate](https://drive.google.com/file/d/1ZSTRdBUXbW6k8nTRvHqFafPEpqswgbiY/preview)
 * **Agentic AI Fundamentals: Architectures, Frameworks, and Applications** — [👁️ View Certificate](https://drive.google.com/file/d/1jPqiRuSyPp8topBQLpAg0Y3S-pFPm7T-/preview)
@@ -64,6 +64,6 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 🚂 Purdue University AI
+## 🚂 Purdue University AI Badge
 
 * **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg)  **(note: right click link and select open incognito window)**
