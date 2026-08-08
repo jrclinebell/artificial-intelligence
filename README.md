@@ -4,7 +4,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ---
 
-## 🧠 Cisco University AI Badges and Certificates
+## 🧠 Cisco University AI Badges and Certificate
 
 * **Cisco AI Technical Practitioner (AITECH)** — [👁️ View Badge](https://www.credly.com/badges/4a56e0c1-66ea-44d5-a943-cf8e93692f3f)
 * **Cisco AI Business Practitioner (AIBIZ)** — [👁️ View Badge](https://www.credly.com/badges/08c22e87-dc6d-46b1-afee-3d005ad8b2bc)
