@@ -8,7 +8,7 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 * **Cisco AI Technical Practitioner (AITECH)** — [👁️ View Badge](https://www.credly.com/badges/4a56e0c1-66ea-44d5-a943-cf8e93692f3f)
 * **Cisco AI Business Practitioner (AIBIZ)** — [👁️ View Badge](https://www.credly.com/badges/08c22e87-dc6d-46b1-afee-3d005ad8b2bc)
-* **Understanding AI and LLMs as a Network Engineer (AI4NE)** — [👁️ View Badge](https://www.credly.com/badges/57af9a51-7877-4a17-a30b-a24e455b9136)
+* **AI for Networking (AI4NE)** — [👁️ View Badge](https://www.credly.com/badges/57af9a51-7877-4a17-a30b-a24e455b9136)
 * **AI Agent Fundamentals (AGTFNDU)** — [👁️ View Certificate](https://drive.google.com/file/d/1EsNQMPGAwa-6ZSk4KgxFVplZ_VnkxYKB/preview)
 
 ---
@@ -73,4 +73,4 @@ A comprehensive showcase of my verified credentials, specialized course completi
 
 ## 🚂 Purdue University AI Badge
 
-* **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg)  **(note: right click link and select open incognito window)**
+* **Exploring AI: Core Concepts and Applications Micro-credential** — [👁️ View Badge](https://badges.parchment.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg)
